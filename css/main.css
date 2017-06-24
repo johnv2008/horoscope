@@ -1,0 +1,33 @@
+
+.form-control {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.h1, h1 {
+  color: white;
+  font-family: "Oswald", sans-serif;
+  font-size: 45px;
+}
+
+.btn-primary {
+  margin: 10px;
+  font-family: "open sans";
+  font-size: 15px;
+}
+
+p {
+  color: white;
+  font-family: "Oswald", sans-serif;
+  font-size: 20px;
+}
+/* Code pen star gaze code */
+
+body {
+  background: #060e1b;
+  overflow: hidden;
+}
+
+canvas {
+  //opacity: 0.5;
+}
